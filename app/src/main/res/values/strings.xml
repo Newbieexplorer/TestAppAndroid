@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test App Yotadevice</string>
+    <string name="textOfMainActivity">Код страницы</string>
+    <string name="text_of_button">GO!</string>
+</resources>
